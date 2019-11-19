@@ -1,0 +1,4 @@
+{
+	"module": "dist/index.js",
+	"sideEffects": false
+}
